@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic & Scientific Writing"
+  short_description: "Akademik ve bilimsel metinleri düzenle"
+  default_prompt: "$kalemdar-academic-writing ile bu makale taslağını kanıt düzeyini ve gerçek bilgileri koruyarak metodolojik açıdan açık, doğal bir dille düzenle."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Natural & Professional Writing"
+  short_description: "Doğal, açık ve profesyonel metin yaz"
+  default_prompt: "$kalemdar-natural-writing ile bu teknik metne gerçek bilgileri değiştirmeden somutluk, doğal ritim ve alan uzmanı tonu kazandır."

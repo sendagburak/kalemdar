@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project & Grant Writing"
+  short_description: "Proje ve hibe metinlerini somutlaştır"
+  default_prompt: "$kalemdar-project-writing ile bu proje/hibe metnini bürokratik klişelerden temizleyip mevcut bilgilerle ölçülebilir ve uygulanabilir hâle getir."

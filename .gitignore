@@ -1,0 +1,35 @@
+# Credentials and private configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+*token*.json
+*secret*.json
+
+# Local documents and generated artifacts
+*.docx
+*.docm
+*.pdf
+*.rtf
+*.zip
+*.tar.gz
+outputs/
+work/
+private/
+
+# Python and editor/OS files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.tmp
+~$*

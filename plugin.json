@@ -1,0 +1,27 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "kalemdar",
+  "version": "1.1.0",
+  "description": "Akademik, proje, teknik ve profesyonel metinleri doğal, somut ve metodolojik bir dille yazan ve amaca uygun DOCX düzeni kuran yazım sistemi.",
+  "author": {
+    "name": "Burak Şendağ"
+  },
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Kalemdar",
+        "shortDescription": "Doğal akademik ve proje yazımı",
+        "longDescription": "Kalemdar: Doğal Akademik & Proje Yazarı. Akademik makale, araştırma, proje ve hibe başvurusu, teknik rapor, kurumsal belge, entelektüel deneme ve genel metinlerde klişe, tekrar ve belirsizliği azaltır. Gerçek bilgileri, kaynak disiplinini ve yazarın sesini korur. Beş becerisi ortak stil kuralları kullanır. DOCX düzeninde belge türüne uygun tipografi, verilen şablona sadakat ve her sayfada bağımsız tablo ilkesi uygular. Sunucu, harici API veya bağlı uygulama gerektirmez.",
+        "developerName": "Burak Şendağ",
+        "category": "Productivity",
+        "defaultPrompt": [
+          "Bu proje/hibe metnini bürokratik yapay zekâ klişelerinden temizleyip operasyonel hâle getir:",
+          "Bu makale taslağını akademik hedging ve metodolojik netlikle yeniden yaz:",
+          "Bu teknik metne somutluk, doğal ritim ve alan uzmanı tonu kazandır:"
+        ],
+        "logo": "./assets/icon.png",
+        "composerIcon": "./assets/icon.png"
+      }
+    }
+  }
+}

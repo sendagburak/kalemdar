@@ -1,0 +1,4 @@
+interface:
+  display_name: "DOCX Document Design & Formatting"
+  short_description: "Amaca uygun ve şablona sadık DOCX hazırla"
+  default_prompt: "$kalemdar-docx-design ile bu proje raporunu şablonunu ve gerçek bilgilerini koruyarak, her sayfanın tablosu bağımsız olacak biçimde DOCX olarak hazırla."

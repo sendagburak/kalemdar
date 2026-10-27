@@ -1,0 +1,25 @@
+{
+  "interface": {
+    "displayName": "Kalemdar",
+    "shortDescription": "Do\u011fal akademik ve proje yaz\u0131m\u0131",
+    "longDescription": "Kalemdar: Do\u011fal Akademik & Proje Yazar\u0131. Akademik makale, ara\u015ft\u0131rma, proje ve hibe ba\u015fvurusu, teknik rapor, kurumsal belge, entelekt\u00fcel deneme ve genel metinlerde kli\u015fe, tekrar ve belirsizli\u011fi azalt\u0131r. Ger\u00e7ek bilgileri, kaynak disiplinini ve yazar\u0131n sesini korur. Be\u015f becerisi ortak stil kurallar\u0131 kullan\u0131r. DOCX d\u00fczeninde belge t\u00fcr\u00fcne uygun tipografi, verilen \u015fablona sadakat ve her sayfada ba\u011f\u0131ms\u0131z tablo ilkesi uygular. Sunucu, harici API veya ba\u011fl\u0131 uygulama gerektirmez.",
+    "developerName": "Burak \u015eenda\u011f",
+    "category": "Productivity",
+    "defaultPrompt": [
+      "Bu proje/hibe metnini b\u00fcrokratik yapay zek\u00e2 kli\u015felerinden temizleyip operasyonel h\u00e2le getir:",
+      "Bu makale tasla\u011f\u0131n\u0131 akademik hedging ve metodolojik netlikle yeniden yaz:",
+      "Bu teknik metne somutluk, do\u011fal ritim ve alan uzman\u0131 tonu kazand\u0131r:"
+    ],
+    "logo": "./assets/icon.png",
+    "composerIcon": "./assets/icon.png",
+    "capabilities": []
+  },
+  "name": "kalemdar",
+  "version": "1.1.0",
+  "description": "Akademik, proje, teknik ve profesyonel metinleri do\u011fal, somut ve metodolojik bir dille yazan ve amaca uygun DOCX d\u00fczeni kuran yaz\u0131m sistemi.",
+  "author": {
+    "name": "Burak \u015eenda\u011f"
+  },
+  "keywords": [],
+  "skills": "./skills"
+}

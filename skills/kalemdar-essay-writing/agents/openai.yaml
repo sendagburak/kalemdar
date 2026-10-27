@@ -1,0 +1,4 @@
+interface:
+  display_name: "Intellectual Essay Writing"
+  short_description: "Deneme ve düşünce yazısını doğal kur"
+  default_prompt: "$kalemdar-essay-writing ile bu düşünceyi doğal bir denemeye dönüştür; kavramsal ayrımları aç, yazar sesini ve somut örnekleri koru."
