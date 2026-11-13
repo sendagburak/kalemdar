@@ -1,22 +1,22 @@
 {
   "interface": {
     "displayName": "Kalemdar",
-    "shortDescription": "Do\u011fal akademik ve proje yaz\u0131m\u0131",
-    "longDescription": "Kalemdar: Do\u011fal Akademik & Proje Yazar\u0131. Akademik makale, ara\u015ft\u0131rma, proje ve hibe ba\u015fvurusu, teknik rapor, kurumsal belge, entelekt\u00fcel deneme ve genel metinlerde kli\u015fe, tekrar ve belirsizli\u011fi azalt\u0131r. Ger\u00e7ek bilgileri, kaynak disiplinini ve yazar\u0131n sesini korur. Be\u015f becerisi ortak stil kurallar\u0131 kullan\u0131r. DOCX d\u00fczeninde belge t\u00fcr\u00fcne uygun tipografi, verilen \u015fablona sadakat ve her sayfada ba\u011f\u0131ms\u0131z tablo ilkesi uygular. Sunucu, harici API veya ba\u011fl\u0131 uygulama gerektirmez.",
+    "shortDescription": "Do\u011fal T\u00fcrk\u00e7e, akademik ve proje yaz\u0131m\u0131",
+    "longDescription": "Kalemdar, akademik, proje/hibe, teknik, profesyonel ve entelekt\u00fcel metinleri kaynak disiplinini koruyarak yazar ve d\u00fczenler. Be\u015f becerisinin tamam\u0131 i\u00e7in 2026 T\u00fcrk Dil Kurumu Yaz\u0131m K\u0131lavuzu ve MEB T\u00fcrk\u00e7e kaynaklar\u0131n\u0131 temel alan dil bilgisi, b\u00fct\u00fcn ana noktalama i\u015faretleri, ba\u011fla\u00e7lar/s\u00f6ylem ba\u011flay\u0131c\u0131lar\u0131 ve T\u00fcrk\u00e7eye \u00f6zg\u00fc do\u011fal anlat\u0131m denetimi uygulan\u0131r. T\u00fcrk\u00e7enin ses, bi\u00e7im, s\u00f6zc\u00fck ve c\u00fcmle yap\u0131lar\u0131, anlam ve paragraf b\u00fct\u00fcnl\u00fc\u011f\u00fc g\u00f6zetilir. DOCX teslimlerinde \u015fablon korunur. Harici API veya sunucu gerekmez; g\u00fcncel d\u0131\u015f kaynak denetimi yaln\u0131zca eri\u015fim varsa yap\u0131l\u0131r.",
     "developerName": "Burak \u015eenda\u011f",
     "category": "Productivity",
     "defaultPrompt": [
-      "Bu proje/hibe metnini b\u00fcrokratik yapay zek\u00e2 kli\u015felerinden temizleyip operasyonel h\u00e2le getir:",
-      "Bu makale tasla\u011f\u0131n\u0131 akademik hedging ve metodolojik netlikle yeniden yaz:",
-      "Bu teknik metne somutluk, do\u011fal ritim ve alan uzman\u0131 tonu kazand\u0131r:"
+      "Bu metni 2026 TDK yaz\u0131m ve noktalama kurallar\u0131na g\u00f6re d\u00fczelt, do\u011fal T\u00fcrk\u00e7eyle sadele\u015ftir:",
+      "Bu proje/hibe metnindeki gereksiz ba\u011fla\u00e7lar\u0131 ve b\u00fcrokratik kal\u0131plar\u0131 temizle, anlam\u0131 ve verileri koru:",
+      "Bu akademik metni ba\u011fla\u00e7, s\u00f6z dizimi, noktalama, kan\u0131t ve terim do\u011frulu\u011fu a\u00e7\u0131s\u0131ndan d\u00fczenle:"
     ],
     "logo": "./assets/icon.png",
     "composerIcon": "./assets/icon.png",
     "capabilities": []
   },
   "name": "kalemdar",
-  "version": "1.1.0",
-  "description": "Akademik, proje, teknik ve profesyonel metinleri do\u011fal, somut ve metodolojik bir dille yazan ve amaca uygun DOCX d\u00fczeni kuran yaz\u0131m sistemi.",
+  "version": "1.2.0",
+  "description": "2026 TDK ve MEB kaynaklar\u0131yla T\u00fcrk\u00e7e dil bilgisi, ba\u011fla\u00e7, noktalama ve do\u011fal anlat\u0131m denetimi g\u00fc\u00e7lendirilmi\u015f akademik, proje ve profesyonel yaz\u0131m sistemi.",
   "author": {
     "name": "Burak \u015eenda\u011f"
   },

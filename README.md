@@ -1,6 +1,6 @@
-# Kalemdar v1.1.0
+# Kalemdar v1.2.0
 
-Doğal, somut ve kaynak disiplinini koruyan akademik, proje ve profesyonel yazım için beş beceri. v1.1.0, Türkçe kuralları koruyarak dile ve bölgesel kullanıma özgü editoryal rehberler ekler.
+Doğal, somut ve kaynak disiplinini koruyan akademik, proje ve profesyonel yazım için beş beceri. v1.2.0, önceki çok dilli rehberleri korurken Türkçe dil bilgisi, bağlaç, noktalama ve doğal anlatım kurallarını beş beceride ortak uygular.
 
 ## Türkçe
 
@@ -13,6 +13,19 @@ Doğal, somut ve kaynak disiplinini koruyan akademik, proje ve profesyonel yazı
 | `skills/kalemdar-essay-writing` | Entelektüel deneme ve eleştirel düşünce yazıları |
 | `skills/kalemdar-natural-writing` | Genel, teknik, kurumsal ve profesyonel metin |
 | `skills/kalemdar-docx-design` | Word/DOCX düzeni, şablon ve yapısal kontrol |
+
+### Türkçe editörlük katmanı (v1.2.0)
+
+Bütün beş becerinin ortak stil dosyaları, Türkçe metinlerde `references/turkce-dil-rehberi.md` dosyasını yükler. Rehber şu alanları kapsar:
+
+- Ses ve biçim bilgisi, sözcük türleri, ekler, fiiller, fiilimsiler, çatı, cümle ve paragraf yapısı, anlatım bozuklukları.
+- Dilbilgisel bağlaçlar, söylem bağlayıcıları ve geçiş ifadelerinin anlam/işlev ayrımı.
+- TDK'nin 2026 Yazım Kılavuzu'ndaki bütün ana noktalama işaretleri ve yazım denetimi.
+- Akademik, proje, profesyonel, deneme ve DOCX çıktılarında bağlama uygun sadeleştirme.
+
+**Kaynaklar:** [TDK Yazım Kılavuzu 2026](https://yazim.tdk.gov.tr/content), [MEBİ TYT Türkçe konu özetleri (PDF)](https://ogmmateryal.eba.gov.tr/kitap/mebi-konu-ozetleri/tyt-turkce/tyt-turkce.pdf), [MEB Türk Dili ve Edebiyatı 9 (PDF)](https://ogmmateryal.eba.gov.tr/kitap/telafi-egitimi/egitim-materyalleri/tde/9/tde.pdf), [Deniz ve Demir (2019, PDF)](https://dergipark.org.tr/tr/download/article-file/931223), [Hirik (2023, PDF)](https://dergipark.org.tr/tr/download/article-file/2956588).
+
+PDF kitapların tam metinleri bu depoda yeniden dağıtılmaz. Rehber, kaynaklara dayalı özgün editörlük ilkelerini içerir. Hiçbir tespit aracına karşı geçiş veya insan yazarlığı garantisi verilmez. Güncel değişiklikler için TDK ayrıca kontrol edilmelidir.
 
 ### Çok dilli kapsam
 
@@ -51,7 +64,7 @@ Bu depoda açık bir kullanım lisansı tanımlanmamıştır. Deponun herkese a�
 
 Kalemdar is a collection of five writing skills for academic work, project and grant proposals, essays, professional text, and DOCX design. It aims to preserve facts, evidence, citations and the author's voice while reducing formulaic prose.
 
-Version 1.1.0 adds 15 language profiles: Turkish, English, German, French, Spanish, Portuguese, Italian, Dutch, Polish, Russian, Arabic, Chinese, Japanese, Korean and Hindi. Guidance covers regional variants, register, punctuation, writing systems and academic conventions. The source language is preserved unless translation is explicitly requested. Coverage describes the instructions; it is not a claim of equal quality or comprehensive testing across all languages.
+Version 1.2.0 retains 15 language profiles and adds Turkish grammar, conjunction/discourse-marker, punctuation, and natural editing guidance across all five skills. Version 1.1.0 added 15 language profiles: Turkish, English, German, French, Spanish, Portuguese, Italian, Dutch, Polish, Russian, Arabic, Chinese, Japanese, Korean and Hindi. Guidance covers regional variants, register, punctuation, writing systems and academic conventions. The source language is preserved unless translation is explicitly requested. Coverage describes the instructions; it is not a claim of equal quality or comprehensive testing across all languages.
 
 Use the package in a compatible agent environment that can load `SKILL.md` and its references. Preserve the manifest, asset and skill directory structure. Installation depends on the host client. The package includes no external server, API key or paid service integration. The host model's own terms and costs still apply. DOCX generation and rendering require tools available in the host environment.
 

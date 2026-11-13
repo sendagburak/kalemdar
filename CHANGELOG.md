@@ -1,5 +1,22 @@
 # Changelog
 
+## 1.2.0 — 2026-11-13
+
+### Added / Eklendi
+
+- Beş becerinin her birine `references/turkce-dil-rehberi.md` eklendi ve ortak üslup kurallarından bağlandı.
+- 2026 TDK Yazım Kılavuzu ile MEB dil bilgisi kaynaklarına göre Türkçe dilbilgisi ve noktalama kontrolü genişletildi.
+- Bağlaçlar ve söylem bağlayıcıları anlam ilişkilerine göre sınıflandırıldı; eksiltme ve sadeleştirmede mantık bağları korunuyor.
+- Türkçeye uygun sözdizimi, gereksiz adlaştırma, edilgenlik, mekanik paragraf geçişleri ve retorik tekrar için editoryal denetim eklendi.
+- Kaynak PDF bağlantıları eklendi; telifli PDF içerikleri depoya kopyalanmadı.
+
+### Preserved / Korundu
+
+- Beş mevcut becerinin özel iş akışları, çok dilli beceriler ve DOCX şablon sadakati korundu.
+- Yeni servis/API bağımlılığı eklenmedi.
+- Otomatik "insan yazarlığı" veya tespit atlatma garantisi verilmedi.
+
+
 ## 1.1.0 — 2026-10-27
 
 ### Added / Eklendi
