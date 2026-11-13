@@ -23,9 +23,8 @@ Bütün beş becerinin ortak stil dosyaları, Türkçe metinlerde `references/tu
 - TDK'nin 2026 Yazım Kılavuzu'ndaki bütün ana noktalama işaretleri ve yazım denetimi.
 - Akademik, proje, profesyonel, deneme ve DOCX çıktılarında bağlama uygun sadeleştirme.
 
-**Kaynaklar:** [TDK Yazım Kılavuzu 2026](https://yazim.tdk.gov.tr/content), [MEBİ TYT Türkçe konu özetleri (PDF)](https://ogmmateryal.eba.gov.tr/kitap/mebi-konu-ozetleri/tyt-turkce/tyt-turkce.pdf), [MEB Türk Dili ve Edebiyatı 9 (PDF)](https://ogmmateryal.eba.gov.tr/kitap/telafi-egitimi/egitim-materyalleri/tde/9/tde.pdf), [Deniz ve Demir (2019, PDF)](https://dergipark.org.tr/tr/download/article-file/931223), [Hirik (2023, PDF)](https://dergipark.org.tr/tr/download/article-file/2956588).
 
-PDF kitapların tam metinleri bu depoda yeniden dağıtılmaz. Rehber, kaynaklara dayalı özgün editörlük ilkelerini içerir. Hiçbir tespit aracına karşı geçiş veya insan yazarlığı garantisi verilmez. Güncel değişiklikler için TDK ayrıca kontrol edilmelidir.
+Rehber özgün editörlük ilkelerini içerir. Hiçbir tespit aracına karşı geçiş veya insan yazarlığı garantisi verilmez.
 
 ### Çok dilli kapsam
 

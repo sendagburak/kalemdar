@@ -2,15 +2,9 @@
 
 **Kapsam:** Bu rehber Kalemdar'ın akademik, proje/hibe, doğal-profesyonel, deneme ve DOCX becerilerinin tamamında, **Türkçe yazım ve Türkçe düzenleme** sırasında birlikte uygulanır. Başka dilde yazılan metinlerin dilbilgisine Türkçe kuralları dayatılmaz. Bu metin öğretim kitabının veya TDK'nin kopyası değil, yazarlık ve editörlük için hazırlanmış özgün bir uygulama denetimidir. Bir dilin yaşayan bütün söz varlığının tek bir sonlu listede bulunduğu varsayılmaz.
 
-## 1. Kaynak önceliği ve güncellik
+## 1. Dil standardı ve güncellik
 
-1. **Yazım ve noktalama otoritesi:** TDK *Yazım Kılavuzu*, 2026 baskısını esas alan resmî çevrim içi sürüm: https://yazim.tdk.gov.tr/ . Özellikle https://yazim.tdk.gov.tr/content/09-noktalama-isaretleri.html ve https://yazim.tdk.gov.tr/content/14-noktalama-isaretleri-ve-diger-isaretler.html . TDK sitesi gerektiğinde içeriği PDF kaydetme özelliği sunabilir; genel bir indirilebilir tekil PDF adresi varmış gibi davranma.
-2. **Kapsamlı dilbilgisi konu anlatımı:** MEB Ortaöğretim Genel Müdürlüğü, *MEBİ TYT Türkçe Konu Özetleri*, https://ogmmateryal.eba.gov.tr/kitap/mebi-konu-ozetleri/tyt-turkce/tyt-turkce.pdf . Sözcük/cümle/paragrafta anlam, ses/biçim bilgisi, yazım, noktalama, sözcük türleri, bağlaçlar, fiil, cümle yapısı ve anlatım bozuklukları dâhil 36 konu başlığı barındırır. Özellikle basılı sayfa 61-71 noktalama, 73-81 biçim, 83-105 sözcük türleri, **105-108 edat-bağlaç-ünlem**, 109-121 fiil, 123-127 cümle, 129-135 anlatım bozuklukları.
-3. **Bağlaçları metin bağında inceleme:** MEB OGM, *9. Sınıf Türk Dili ve Edebiyatı Telafi Eğitimi* (2023), https://ogmmateryal.eba.gov.tr/kitap/telafi-egitimi/egitim-materyalleri/tde/9/tde.pdf . Edat-bağlaç-ünlem kullanımlarına bağlamsal örnekler içerir.
-4. **Söylem belirleyicileri:** Erkan Hirik, “Türkçede Söylem Belirleyiciler ve Mental Söz Varlığı İlişkisi”, 2023, DOI 10.51531/korkutataturkiyat.1252121, https://dergipark.org.tr/tr/download/article-file/2956588 . Söylem belirleyicisi her durumda dilbilgisel bağlaç değildir; sözcük, öbek veya cümle düzeyinde farklı işlevleri olabilir.
-5. **Örnekle doğrulama:** MEB *Dört Dörtlük Konu Pekiştirme TYT Türkçe* (2023), https://ogmmateryal.eba.gov.tr/panel/upload/etkilesimli/kitap/konu-pekistirme/tyt/tde/tde.pdf . Ana öğretim kaynağı değil, sorular ve karşı örnekler için yardımcı kaynak.
-
-**Çatışma kuralı:** Yazım/noktalama için güncel TDK; öğretim sınıflandırması için kapsamlı MEB; dilbilimsel yorum ve doğal söylem için açıklanmış akademik analiz. Kurumun/derginin zorunlu şablonu ve doğrudan alıntının özgün yazımı, gerekli yerlerde ayrıca korunur. İnternete erişim yokken yeni bir değişikliğin kontrol edildiğini iddia etme; bu rehberin dayandığı 2026 kılavuzunu başlangıç kabul et, güncellik gerektiğinde erişilebilen resmi kaynağı yeniden doğrula.
+Türkçe yazım ve noktalama kararlarını güncel resmî yazım kurallarına göre ver. Dil bilgisi sınıflandırmasında güvenilir öğretim ve dilbilim çalışmalarındaki bağlama uygun ayrımları gözet. Alıntı, kurum şablonu ve resmî özel adları koru. Erişilmeyen bir kaynağın güncel hâlinin kontrol edildiğini iddia etme. Kaynakça veya bağlantı yalnızca kullanıcı özellikle isterse çıktı metnine eklenir.
 
 ## 2. Türkçe dil bilgisi: tam konu denetim matrisi
 
